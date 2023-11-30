@@ -1,0 +1,2 @@
+C:\Users\szulc\Desktop\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\szulc\Desktop\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
